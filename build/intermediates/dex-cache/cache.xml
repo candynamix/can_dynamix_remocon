@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\jsr305-1.3.9_a6a0067289109e368ae36e860d4a9d91a15ec5f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\commons-pool\commons-pool\1.6\4572d589699f09d866a226a14b7f4323c6d8f040\commons-pool-1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4572d589699f09d866a226a14b7f4323c6d8f040">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\commons-pool-1.6_cdb540cbbfa4d76b1a902ff1e341918ff7b6e371.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.apache.commons\com.springsource.org.apache.commons.httpclient\3.1.0\c493a925a091ac3d8f449d9265fe12482dabb2a7\com.springsource.org.apache.commons.httpclient-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c493a925a091ac3d8f449d9265fe12482dabb2a7">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\com.springsource.org.apache.commons.httpclient-3.1.0_850cdb4f71e135cd7e47f5ca65fe8e0423acb62e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.apache.commons\com.springsource.org.apache.commons.logging\1.1.1\7657caf2c78e1d79c74d36f2ae128a115f7cc180\com.springsource.org.apache.commons.logging-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7657caf2c78e1d79c74d36f2ae128a115f7cc180">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\com.springsource.org.apache.commons.logging-1.1.1_cbc1be7b6288e99c3708b99879f66c6d2e3b77aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.apache.commons\com.springsource.org.apache.commons.codec\1.3.0\f8690570eb0913d750262bb4223eed30b0d619ed\com.springsource.org.apache.commons.codec-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8690570eb0913d750262bb4223eed30b0d619ed">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\com.springsource.org.apache.commons.codec-1.3.0_36b5d0e0cd463c9874cf471a970a89091299bd23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_8f4239808d63b48d7e5dc154cc49bfd26e86970a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_messages\diagnostic_msgs\1.12.5\74d9364249591cc38b135e8a17b3200696db4202\diagnostic_msgs-1.12.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74d9364249591cc38b135e8a17b3200696db4202">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\diagnostic_msgs-1.12.5_1abc7cbf0b9f3858a42d126b63a30bb3869fb2f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_core\apache_xmlrpc_server\0.3.4\23dc9a644224881dca2928beebad49e979a0ecb\apache_xmlrpc_server-0.3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023dc9a644224881dca2928beebad49e979a0ecb">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\apache_xmlrpc_server-0.3.4_35bd5dc0ae21d39af6cb969036ea13bcea6065d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_core\rosjava\0.3.4\b35f950a25a8d84a36bfa82c3889cacbc29efed1\rosjava-0.3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b35f950a25a8d84a36bfa82c3889cacbc29efed1">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\rosjava-0.3.4_cec3b04b24326057e0b57eb8f721eab8cd6544ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_5161142241b89a2968f28052fbfeb4e94fd59c17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_85b9abb3fa856975de9b8f9862d54c9986dbc81f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_569542fdc999515ad46d16a1486ebf48a532dd8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\io.netty\netty\3.5.2.Final\e6fb74a0699abe108969b2ec1f269391169a0426\netty-3.5.2.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e6fb74a0699abe108969b2ec1f269391169a0426">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\netty-3.5.2.Final_9e54ccea867da8f2128e4f20fa463e54325575ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.apache.commons\com.springsource.org.apache.commons.net\2.0.0\3e78766072ff5a5cf3f5431d973c430c94ec612\com.springsource.org.apache.commons.net-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03e78766072ff5a5cf3f5431d973c430c94ec612">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\com.springsource.org.apache.commons.net-2.0.0_376441cb77092d604116e4f609fcde8328a3fab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.apache.commons\com.springsource.org.apache.commons.io\1.4.0\51097cd000ec88214ff181c9f059947de1cf4a35\com.springsource.org.apache.commons.io-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51097cd000ec88214ff181c9f059947de1cf4a35">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\com.springsource.org.apache.commons.io-1.4.0_b28df036744bc3dee3305fac456b10d06ef9e124.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_a7a4d9282b75d8eb5675961c99777c23c5754073.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_6f5e03da082c8dad055e31547cfafb9789c80f4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.apache.commons\com.springsource.org.apache.commons.lang\2.4.0\686e3713650c8e3a5d98723b4d3e239586bf9822\com.springsource.org.apache.commons.lang-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="686e3713650c8e3a5d98723b4d3e239586bf9822">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\com.springsource.org.apache.commons.lang-2.4.0_7c0f1e1187b47e33033d0b60166b6a4e8729c162.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.apache.ws.commons\ws-commons-util\1.0.1\126e80ff798fece634bc94e61f8be8a8da00be60\ws-commons-util-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="126e80ff798fece634bc94e61f8be8a8da00be60">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\ws-commons-util-1.0.1_36da089d33e0ff20b77ff6c2df42cf686b020009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_messages\actionlib_msgs\1.12.5\aa70fb74bb8812b9f49cf95d4b44570ae8b951ee\actionlib_msgs-1.12.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa70fb74bb8812b9f49cf95d4b44570ae8b951ee">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\actionlib_msgs-1.12.5_64c94e1d30cdf56e98b43b6fc0be4fbd2c03d4a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\dnsjava\dnsjava\2.1.1\5708df81cf6dbff545695f0be6380b7bbc85accc\dnsjava-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5708df81cf6dbff545695f0be6380b7bbc85accc">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\dnsjava-2.1.1_b3b3b9f7390308eabe4d67e46a4e911554f1a579.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_core\apache_xmlrpc_client\0.3.4\3b5769e7689a28ebd51263974e98294fb1529147\apache_xmlrpc_client-0.3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b5769e7689a28ebd51263974e98294fb1529147">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\apache_xmlrpc_client-0.3.4_559937d24e3b361d1895ab1e9b4662e74934b3f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_1d1cefd0b16de9f19a3675db072b3aaccb96e81e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_bootstrap\message_generation\0.3.0\5141e448f0ea6a2d6f539219d4fc9b296ff07ca4\message_generation-0.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5141e448f0ea6a2d6f539219d4fc9b296ff07ca4">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\message_generation-0.3.0_f3adc9c01e07edd0cdd8e92c9ed3c1380cf50595.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_core\rosjava_geometry\0.3.4\5a5726c50a3a504ee5e9a9a58ef29853c2756b5\rosjava_geometry-0.3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05a5726c50a3a504ee5e9a9a58ef29853c2756b5">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\rosjava_geometry-0.3.4_c3e82c16e74fa886ef81c109713529baf8ba0c27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\12.0\5bc66dd95b79db1e437eb08adba124a3e4088dc0\guava-12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5bc66dd95b79db1e437eb08adba124a3e4088dc0">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\guava-12.0_ee2bd2b5f030c154f0444da2d59b8516921aed70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_messages\std_msgs\0.5.10\25de4f33c8f8af231d99ec8fe362089a5fb072e8\std_msgs-0.5.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25de4f33c8f8af231d99ec8fe362089a5fb072e8">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\std_msgs-0.5.10_50aa1534ec1d6402fb25e3361a9fb7ae8b5bb719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_messages\sensor_msgs\1.12.5\cbf0470b3769130fbe997ca4cc479177d14ddbdb\sensor_msgs-1.12.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cbf0470b3769130fbe997ca4cc479177d14ddbdb">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\sensor_msgs-1.12.5_572f07c4266c69d2a37b01b450168c0784a017fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_messages\geometry_msgs\1.12.5\cced5d3f1b4f55a4248884befce7e898856705d\geometry_msgs-1.12.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0cced5d3f1b4f55a4248884befce7e898856705d">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\geometry_msgs-1.12.5_18142f5e02186fd3f946ab7cbf2cf303f0a70a5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_messages\nav_msgs\1.12.5\1af629301e0c1e2c5ae5dc5086127d0943f752fb\nav_msgs-1.12.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1af629301e0c1e2c5ae5dc5086127d0943f752fb">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\nav_msgs-1.12.5_bc126bfb6997672aa0f5df675cd5da686fd6e8d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_messages\visualization_msgs\1.12.5\7332bb247c083c2da205f3f0d63e584673024b10\visualization_msgs-1.12.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7332bb247c083c2da205f3f0d63e584673024b10">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\visualization_msgs-1.12.5_451978e1df55a6769ceb34ea91a4b006dd5ecf28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_messages\tf2_msgs\0.5.15\2ceb822da34cb732c7e76a182a474d0a083e0719\tf2_msgs-0.5.15.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ceb822da34cb732c7e76a182a474d0a083e0719">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\tf2_msgs-0.5.15_4028f53916b056536559fe72f17b4d2f546e98eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_messages\rosgraph_msgs\1.11.2\adb731dd5181976b23c217872f61c724a3af70fe\rosgraph_msgs-1.11.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="adb731dd5181976b23c217872f61c724a3af70fe">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\rosgraph_msgs-1.11.2_3a59054e9781bb1be4515f3f5a3b8f7f382549d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_core\apache_xmlrpc_common\0.3.4\2cc23b18aeb8a3c29822bac4971f90edfb93020c\apache_xmlrpc_common-0.3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cc23b18aeb8a3c29822bac4971f90edfb93020c">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\apache_xmlrpc_common-0.3.4_26cbad85b4e660965989eda4b2d05fe967648c5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_3786e43797b6ac5c2eeee688cf092f2e6e5afa51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\exploded-aar\org.ros.android_core\android_10\0.3.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cdd3e51f29315a44c30436ef0b140119c2a5c24a">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\org.ros.android_core-android_10-0.3.2_4fcdf6e04ffb6057757f1c7c8a9b5c380d49e674.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\exploded-aar\org.ros.android_core\android_15\0.3.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1295a34c763bcd4c85ee1c882f7c40b5458be779">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\org.ros.android_core-android_15-0.3.2_a7836ede0c43c4c88d108abf0e52f4559b190c61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_bootstrap\gradle_plugins\0.3.0\9915d897f3b5049e99b268068978a1bca0ae7b5d\gradle_plugins-0.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9915d897f3b5049e99b268068978a1bca0ae7b5d">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\gradle_plugins-0.3.0_1362f9ee1459d23f4f5e8e2f49edfde070a61760.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_2b75e65ca2d792bcb08f65f611e3fc35768bd7d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noeul\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_messages\rosjava_test_msgs\0.3.0\d81caa572200690bdeadf5c257f0d09d77623c1a\rosjava_test_msgs-0.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d81caa572200690bdeadf5c257f0d09d77623c1a">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\rosjava_test_msgs-0.3.0_5ad9ae60677498502f65644044fd83987357fafa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\jinsmac\android\can-dynamix\android_can_dynamix\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_3ca81c3e29baa8e435ebf76f3b3f35cd38586752.jar" />
+    </item>
+
+</items>
