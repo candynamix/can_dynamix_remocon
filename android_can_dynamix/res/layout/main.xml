@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+
+
+    <org.ros.android.view.VirtualJoystickView
+        android:id="@+id/virtual_joystick"
+        android:layout_width="300dip"
+        android:layout_height="300dip"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true" />
+
+    <ImageButton
+        android:src="@drawable/imagebuttonblue_s"
+        android:layout_width="150dip"
+        android:layout_height="150dip"
+        android:id="@+id/imageButtonBlue"
+        android:layout_alignTop="@+id/virtual_joystick"
+        android:layout_alignParentLeft="true" />
+
+    <ImageButton
+        android:src="@drawable/imagebuttongreen_s"
+        android:layout_width="150dip"
+        android:layout_height="150dip"
+        android:id="@+id/imageButtonGreen"
+        android:layout_below="@+id/imageButtonBlue"
+        android:layout_alignParentLeft="true" />
+
+
+</RelativeLayout>
