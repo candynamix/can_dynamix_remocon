@@ -10,9 +10,9 @@
   ## Overview
   This App is WiFi controler for CanDynamix Robot and made by Android Studio.     
  
-#  Topic Name = /can_dynamix/command
-#  Message type = string
-#  Message date = start , stop
+###  Topic Name = /can_dynamix/command
+###  Message type = string
+###  Message date = start , stop
 
   <img src="https://raw.githubusercontent.com/candynamix/can_dynamix_remocon/master/docs/start.png" width="300">
   <img src="https://raw.githubusercontent.com/candynamix/can_dynamix_remocon/master/docs/run.png" width="300">
