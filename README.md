@@ -10,7 +10,7 @@
   ## Overview
   This App is WiFi controler for CanDynamix Robot and made by Android Studio.     
  
-
+  Topic Name = /can_dynamix/command
   Message type = string
   Message date = start , stop
 
@@ -28,7 +28,7 @@
   - Turtlebot3 from Robotis
   - Depth camera: Xtion pro live 
   - Sub Depth Intel R200 or USB WebCAM : 
-  - SBC:  Intel¢ç NUC Kit DN2820FYKH (RAM 4GB, SSD 128G, power 12v-3A)  
+  - SBC:  IntelÂ¢Ã§ NUC Kit DN2820FYKH (RAM 4GB, SSD 128G, power 12v-3A)  
   - Android WiFi controler (Any Smart Phone or PAD with Android O/S)
 
  ## Software platform 
