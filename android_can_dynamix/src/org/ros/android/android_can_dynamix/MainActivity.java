@@ -114,7 +114,7 @@ public class MainActivity extends RosActivity {
     ImageButton imageButtonGreen = (ImageButton)findViewById(R.id.imageButtonGreen);
     imageButtonGreen.setOnClickListener(imageButtonGreenClickListener);
 
-    final OnClickListener imageButtonBlueClickListener = new OnClickListener()
+    final OnClickListener imageButtonRedClickListener = new OnClickListener()
     {
       @Override
       public void onClick(View v) {
@@ -124,8 +124,8 @@ public class MainActivity extends RosActivity {
         Log.i (DEBUG_TAG," blue");
       }
     };
-    ImageButton imageButtonBlue = (ImageButton)findViewById(R.id.imageButtonBlue);
-    imageButtonBlue.setOnClickListener(imageButtonBlueClickListener);
+    ImageButton imageButtonRed = (ImageButton)findViewById(R.id.imageButtonRed);
+    imageButtonRed.setOnClickListener(imageButtonRedClickListener);
   }
 
 
